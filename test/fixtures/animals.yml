@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  specie: one
+  specie_type: Specie
+
+two:
+  specie: two
+  specie_type: Specie
